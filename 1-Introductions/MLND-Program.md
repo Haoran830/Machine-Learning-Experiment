@@ -1,4 +1,3 @@
-# Introductions
 ## Welcome to the MLND Program
 ### Program structure
 The Machine Learning Nanodegree Program is divided into six parts, giving you a thorough understanding of machine learning, and covering some of the major topics.
@@ -66,13 +65,13 @@ Such content is optional and shouldn't prevent you from doing the projects. Howe
 <br />
 
 ## Deadlines
-Project	                            |Due Date
----                                 |---
-Predicting Boston Housing Prices    |Feb 6
-Finding Donors for CharityML	    |Feb 27
-Dog Breed Classifier            	|Mar 31
-Creating Customer Segments      	|Apr 21
-Teach a Quadcopter to Fly       	|May 19
-Capstone Proposal               	|Jun 2
-Capstone Project                    |Jul 14
-Term Deadline	                    |Jul 28
+| Project                          | Due Date |
+| -------------------------------- | -------- |
+| Predicting Boston Housing Prices | Feb 6    |
+| Finding Donors for CharityML     | Feb 27   |
+| Dog Breed Classifier             | Mar 31   |
+| Creating Customer Segments       | Apr 21   |
+| Teach a Quadcopter to Fly        | May 19   |
+| Capstone Proposal                | Jun 2    |
+| Capstone Project                 | Jul 14   |
+| Term Deadline                    | Jul 28   |
