@@ -1,20 +1,20 @@
-## Training and Testing Models
-### Stats Refresher
+# Training and Testing Models
+## Stats Refresher
 Courses
 - [Descriptive](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [Inferential statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-### Numpy and Pandas
+## Numpy and Pandas
 Courses
 - [Numpy and Pandas Tutorial](https://classroom.udacity.com/courses/ud725-nd/lessons/5454078888/concepts/54758106780923)
 - [Scikit Learn Tutorial](https://classroom.udacity.com/courses/ud725-nd/lessons/5430830847/concepts/6a282140-f39d-4b43-8c91-539571a30fad)
 
-### Loading data into Pandas
+## Loading data into Pandas
 ```python
 import pandas
 data = pandas.read_csv("file_name.csv")
 ```
-### NumPy Arrays
+## NumPy Arrays
 ```python
 # extract column A
 >> df['A']
@@ -26,7 +26,7 @@ data = pandas.read_csv("file_name.csv")
 >> numpy.array(df)
 ```
 
-### Training models in sklearn
+## Training models in sklearn
 ```python
 # fit the classifier to the data (which we call X, y):
 classifier.fit(X,y)
@@ -55,7 +55,7 @@ classifier = LogisticRegression()
 classifier.fit(X,y)
 
 ```
-### Tuning Parameters Manually
+## Tuning Parameters Manually
 
 ```python
 >>> classifier = SVC(kernel = 'poly', degree = 2)
@@ -69,7 +69,7 @@ classifier.fit(X,y)
 
 - **C** (float): The C parameter.
 
-### Testing your models
+## Testing your models
 
 Golden rule (never break)
 
