@@ -15,13 +15,19 @@ If the modle is bad
 ![Precision and Recall](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-4.png)
 
 ### Precision 
-!(Precision)[https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-p.png]
+![Precision](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-p.png)
 
 ### Recall 
-!(Precision)[https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-r.png]
+![Recall](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-r.png)
 
 ### Fl Score 
-!(Fl Score)[https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-f.png]
+![Fl Score](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-f.png)
 
 ### F-beta Score 
-!(F-beta Score)[https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-fb.png]
+![F-beta Score](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-fb.png)
+
+### ROC Curve
+![ROC Curve](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-roc.png)
+
+### Regression Metrics 
+![Regression Metrics](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/2-reg.png)
