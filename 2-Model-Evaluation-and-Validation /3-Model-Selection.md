@@ -18,3 +18,6 @@ Train model K times, each time use randomly choosed points as testing seting and
 ## Leaming Curves 
 Detecting Overfitting and Underfitting
 ![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/3-5.png)
+
+## Grid Search
+![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/3-6.png)
