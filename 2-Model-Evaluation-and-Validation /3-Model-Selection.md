@@ -21,3 +21,14 @@ Detecting Overfitting and Underfitting
 
 ## Grid Search
 ![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/2-Model-Evaluation-and-Validation%20/images/3-6.png)
+
+1. 1
+2. 2
+3. 3
+4. 4
+
+
+
+
+
+
