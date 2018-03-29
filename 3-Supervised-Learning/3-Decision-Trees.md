@@ -2,16 +2,16 @@
 Decision trees are a structure for decision-making where each decision 
 leads to a set of consequences or additional decisions. 
 ## Entropy 
-![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-1.png)
+![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-1.png)
 
 ### Entropy Formula
-![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-2.png)
+![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-2.png)
 
 ### Information Gain 
-![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-3.png)
+![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-3.png)
 
 ## Random Forests
-![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-6.png)
+![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-6.png)
 
 1. Pick some of the columns randomly. Build a Decision Tree in those columns. 
 2. Pick some other columns randomly and build a Decision Tree in those
@@ -25,7 +25,7 @@ These are some of the most important hyperparameters used in decision trees:
 #### 1. Maximum Depth
 The maximum depth of a decision tree is simply the largest length between the root to a leaf. A tree of maximum length k k k can have at most 2k 2^k 2k leaves.
 
-![](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-4.png)
+![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-4.png)
 
 - Large depth very often causes overfitting, since a tree that is too deep, can memorize the data. 
 - Small depth can result in a very simple model, which may cause underfitting.
