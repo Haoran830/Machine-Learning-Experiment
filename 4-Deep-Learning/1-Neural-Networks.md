@@ -36,6 +36,7 @@ def softmax(L):
 |   Duck   |  ->  |   1   |
 |  Walrus  |  ->  |   3   |
 |  Beaver  |  ->  |   2   |
+
 It would not work because it would assume dependencies between the classes that we can't have.
 
 The right way is:
