@@ -2,15 +2,19 @@
 Decision trees are a structure for decision-making where each decision 
 leads to a set of consequences or additional decisions. 
 ## Entropy 
+To show how chaotic the data is
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-1.png)
 
 ### Entropy Formula
+To measure Entropy
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-2.png)
 
 ### Information Gain 
+To show how good the splitting is.
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-3.png)
 
 ## Random Forests
+To solve the overfitting of Decision Trees.
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/3-Supervised-Learning/images/3-6.png)
 
 1. Pick some of the columns randomly. Build a Decision Tree in those columns. 
