@@ -60,10 +60,17 @@ Cross-entropy loss, or log loss, measures the performance of a classification mo
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/4-Deep-Learning/images/1-6.png)
 ##### Math
 After [calculation](https://classroom.udacity.com/nanodegrees/nd009t/parts/0ac87c1d-350a-417b-93c8-392dbf9cb8c2/modules/8c602bd6-1bde-454e-80d3-0ed8476baf10/lessons/d00ecaa9-56de-405d-ba6e-530b44a59836/concepts/0d92455b-2fa0-4eb8-ae5d-07c7834b8a56) we can get
+
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/4-Deep-Learning/images/1-m1.png)
+
 which means
+
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/4-Deep-Learning/images/1-m2.png)
+
 Thus,
+
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/4-Deep-Learning/images/1-m3.png)
+
 Then, the procedure becomes
+
 ![image](https://raw.githubusercontent.com/Haoran830/Machine-Learning/master/4-Deep-Learning/images/1-7.png)
