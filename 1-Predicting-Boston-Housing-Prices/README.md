@@ -1,8 +1,12 @@
 
 # Project: Predicting Boston Housing Prices
-Model Evaluation and Validation
+*Model Evaluation and Validation*
 
 [Project Description](others/project_description.md)
+
+Main:
+
+- [boston_housing.ipynb](https://github.com/Haoran830/Machine-Learning-Nanodegree/blob/master/1-Predicting-Boston-Housing-Prices/boston_housing.ipynb) ([boston_housing.html](https://haoran830.github.io/Machine-Learning-Nanodegree/1-Predicting-Boston-Housing-Prices/others/boston_housing.html))
 
 ## Install
 
