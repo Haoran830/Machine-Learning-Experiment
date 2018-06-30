@@ -6,7 +6,7 @@
 
 Main:
 
-- [boston_housing.ipynb](https://github.com/Haoran830/Machine-Learning-Nanodegree/blob/master/1-Predicting-Boston-Housing-Prices/boston_housing.ipynb) ([boston_housing.html](https://haoran830.github.io/Machine-Learning-Nanodegree/1-Predicting-Boston-Housing-Prices/others/boston_housing.html))
+- [boston_housing.ipynb](boston_housing.ipynb) ([html](others/boston_housing.html))
 
 ## Install
 
@@ -42,7 +42,7 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 ## Result
 Performance metric: [coefficient of determination](https://stattrek.com/statistics/dictionary.aspx?definition=coefficient_of_determination) (`sklearn.metrics.r2_score`)
 
-![](images/1-learning-curve.png)
+![1-learning-curve.png](others/images/1-learning-curve.png)
 
 - Training Score =  0.7806
 - Testing Score = 0.6849
