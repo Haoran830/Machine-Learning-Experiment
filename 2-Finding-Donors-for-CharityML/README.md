@@ -1,10 +1,10 @@
 
 # Project: Finding Donors for CharityML
 *Supervised Learning*
+
 ## Summary
 ### Main
-
-[finding_donors.ipynb](finding_donors.ipynb)([finding_donors.html](others/finding_donors.html))
+[finding_donors.ipynb](finding_donors.ipynb)([html](others/finding_donors.html))
 
 ### Content
 - Preprocess data
@@ -27,12 +27,8 @@
     | Accuracy Score |       0.8573       |     0.8269      |
     | F-score        |       0.7242       |     0.6528      |
 
-
-
 ## [Project Information](others/project_description.md)
-
 ### Install
-
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
@@ -43,14 +39,12 @@ This project requires **Python 2.7** and the following Python libraries installe
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 ### Run
-
 In a terminal or command window, navigate to the top-level project  directory (that contains this README) and run the following commands.  This will open the Jupyter Notebook and project file in your browser. 
-
 ```bash
 ipython notebook finding_donors.ipynb
 ```
-### Data
 
+### Data
 The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. You may find this paper [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 **Features**
