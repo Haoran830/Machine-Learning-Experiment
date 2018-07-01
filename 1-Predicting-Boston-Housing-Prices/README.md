@@ -10,16 +10,16 @@
 - Explore Data
   -  Calculate statistics
   -  Observe features
-- Proprocess data
+- Preprocess data
   - Shuffle and split data
 - Analyze model performance
-  - Metric:  Coefficient of determination ( `sklearn.metrics.r2_score` )
-  - Evaluate models with varying maximum depths
+  - Metric:  coefficient of determination ( `sklearn.metrics.r2_score` )
+  - Evaluate the decision tree model with varying maximum depths
     - ![1-Evaluate-models.png](others/images/1-Evaluate-models.png)
   - Select the optimal paramaters using  grid search (GridSearchCV)
   - Train the optimized model
     - ![2-Learning-curve.png](others/images/2-Learning-curve.png)
-  - Evaluate proformance
+  - Evaluate performance
     - Training Score =  0.7806
     - Testing Score = 0.6849
 

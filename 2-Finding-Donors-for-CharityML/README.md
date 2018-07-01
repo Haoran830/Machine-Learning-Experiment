@@ -4,7 +4,7 @@
 
 ## Summary
 ### Main
-[finding_donors.ipynb](finding_donors.ipynb)([html](others/finding_donors.html))
+- [finding_donors.ipynb](finding_donors.ipynb)([html](others/finding_donors.html))
 
 ### Content
 - Preprocess data
