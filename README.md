@@ -4,4 +4,7 @@
 
 ## Projects
 1. [Predicting Boston Housing Prices](1-Predicting-Boston-Housing-Prices)
-2. [Finding Donors for CharityML](2-Finding-Donors-for-CharityML) 
+2. [Finding Donors for CharityML](2-Finding-Donors-for-CharityML)
+3. [Creating Customer Segments](3-Creating-Customer-Segments)
+4. [Dog Breed Recognition](4-Dog-Breed-Recognition)
+

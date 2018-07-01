@@ -8,16 +8,16 @@
 ### Content
 - Explore data 
   - Visualize and observe feature relevance 
-    ![1-feature-relevance.png](others/images/1-feature-relevance.png)
+    > ![1-feature-relevance.png](others/images/1-feature-relevance.png)
 - Preprocess data
   - Scale skewed continuous features
   - Detect and clear outliers
 - Transform features
   - Apply principal component analysis (PCA) 
-    ![2-PCA.png](others/images/2-PCA.png)
+    > ![2-PCA.png](others/images/2-PCA.png)
   - Dimensionality reduction using PCA
   - Visualize a biplot
-    ![3-biplot.png](others/images/3-biplot.png)
+    > ![3-biplot.png](others/images/3-biplot.png)
 - Cluster
   - Metric: silhouette coefficient ( `sklearn.metrics.silhouette_score` )
   - Evaluate the Guassian mixture model(GMM) with varying number of clusters
@@ -26,9 +26,9 @@
     - Number of clusters = 4, score = 0.3040
   - Train the optimized GMM
   - Visualize clusters
-    ![4-prediction.png](others/images/4-prediction.png)
+    > ![4-prediction.png](others/images/4-prediction.png)
   - Evaluate performance comparing with original underlying distributions
-    ![5-original.png](others/images/5-original.png)
+    > ![5-original.png](others/images/5-original.png)
 
 ## [Project Information](others/project_description.md)
 ### Install
