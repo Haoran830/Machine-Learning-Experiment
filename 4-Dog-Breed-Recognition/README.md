@@ -41,16 +41,16 @@ This project requires Python and the following Python libraries installed:
 - OpenCV
 - tqdm
 
-You will also need to have software installed to run and execute an iPython Notebook
+You will also need to have software installed to run and execute a Jupyter Notebook
 
 ### Data
 1. Clone the repository and navigate to the downloaded folder.
-2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it at location `dogImages/`. 
-3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it at location `lfw/`. 
-4. Download the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it at location `bottleneck_features/`.
+2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it at location `dogImages/`. 
+3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). Unzip the folder and place it at location `lfw/`. 
+4. Download the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. Place it at location `bottleneck_features/`.
 
 ### Run
-In a terminal or command window, navigate to the top-level project   directory (that contains this README) and run the following commands.   This will open the Jupyter Notebook and project file in your browser.
+In a terminal or command window, navigate to the top-level project  directory (that contains this README) and run the following commands. This will open the Jupyter Notebook and project file in your browser.
 ```
 jupyter notebook dog_app.ipynb
 ```

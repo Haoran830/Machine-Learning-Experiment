@@ -42,7 +42,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
 ### Run
-In a terminal or command window, navigate to the top-level project  directory (that contains this README) and run the following commands.  This will open the Jupyter Notebook and project file in your browser. 
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run the following commands. This will open the Jupyter Notebook and project file in your browser. 
 ```bash
 ipython notebook customer_segments.ipynb
 ```
