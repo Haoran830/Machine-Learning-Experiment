@@ -4,7 +4,7 @@
 
 ## Summary
 ### Main
-- [finding_donors.ipynb](finding_donors.ipynb)([html](others/finding_donors.html))
+- [finding_donors.ipynb](finding_donors.ipynb) ([html](others/finding_donors.html))
 
 ### Content
 - Preprocess data
@@ -12,17 +12,19 @@
   - Normalize numerical features
   - One-hot encode categorical variables
   - Shuffle and split data
-- Evaluate models
-  - ![1-Evaluate-models.png](others\images\1-Evaluate-models.png)
-- Optimize the model using  grid search (GridSearchCV)
-  - |     Metric     | Unoptimized Model | Optimized Model |
+- Supervise Learning
+  - Evaluate models (Decision Trees, Gaussian Naive Bayes and Random Forest)
+    ![1-Evaluate-models.png](others\images\1-Evaluate-models.png)
+  - Train the random forest classifier (best performance)
+  - Optimize the model using  grid search (GridSearchCV)
+    |     Metric     | Unoptimized Model | Optimized Model |
     | :------------: | :---------------: | :-------------: |
     | Accuracy Score |      0.8431       |     0.8573      |
     | F-score        |      0.6842       |     0.7242      |
-- Observe feature relevance
-  - ![2-Observe-feature-relevance.png](others\images\2-Observe-feature-relevance.png)
-- Evaluate models with and without feature selection
-  - |     Metric     |No Feature Selection|Feature Selection|
+  - Observe feature relevance
+    ![2-Observe-feature-relevance.png](others\images\2-Observe-feature-relevance.png)
+  - Evaluate models with and without feature selection
+    |     Metric     |No Feature Selection|Feature Selection|
     | :------------: | :----------------: | :-------------: |
     | Accuracy Score |       0.8573       |     0.8269      |
     | F-score        |       0.7242       |     0.6528      |

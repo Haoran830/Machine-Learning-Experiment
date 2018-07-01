@@ -15,10 +15,10 @@
 - Analyze model performance
   - Metric:  coefficient of determination ( `sklearn.metrics.r2_score` )
   - Evaluate the decision tree model with varying maximum depths
-    - ![1-Evaluate-models.png](others/images/1-Evaluate-models.png)
+    ![1-Evaluate-models.png](others/images/1-Evaluate-models.png)
   - Select the optimal paramaters using  grid search (GridSearchCV)
   - Train the optimized model
-    - ![2-Learning-curve.png](others/images/2-Learning-curve.png)
+    ![2-Learning-curve.png](others/images/2-Learning-curve.png)
   - Evaluate performance
     - Training Score =  0.7806
     - Testing Score = 0.6849
