@@ -12,22 +12,18 @@
 - Build a deep deterministic policy gradients (DDPG) model in [agent.py](agents/agent.py)
   > ![DDPG.png](others/images/1-DDPG.png)
 - Set a task environment and the reward function in [task.py](task.py)
-
 - Train in [Quadcopter_Project.ipynb](Quadcopter_Project.ipynb) ([html](Quadcopter_Project.html))
-
   > ![Reward Curve](others/images/2-Reward.png)
 
 ## [Project Description](others/project_description.md)
 ### Code
-
 - [task.py](task.py): Taking off task
 - [agents](agents)
-  - [policy_search.py](policy_search.py): A sample agent using stochastic policy
-  - [agent.py](agent.py): DDPG model
+  - [policy_search.py](agents/policy_search.py): A sample agent using stochastic policy
+  - [agent.py](agents/agent.py): DDPG model
 - [physics_sim.py](physics_sim.py): Quadcopter simulator
 
 ### Install
-
 This project requires Python and the following Python libraries installed:
 
 - NumPy
