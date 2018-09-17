@@ -14,20 +14,22 @@
   - Shuffle and split data
 - Supervise Learning
   - Evaluate models (Decision Trees, Gaussian Naive Bayes and Random Forest)
-    > ![1-Evaluate-models.png](others\images\1-Evaluate-models.png)
+
+    > ![1-Evaluate-models.png](others/images/1-Evaluate-models.png)
   - Train the random forest classifier (best performance)
   - Optimize the model using  grid search (GridSearchCV)
     > |     Metric     | Unoptimized Model | Optimized Model |
-      | :------------: | :---------------: | :-------------: |
-      | Accuracy Score |      0.8431       |     0.8573      |
-      | F-score        |      0.6842       |     0.7242      |
+    > | :------------: | :---------------: | :-------------: |
+    > | Accuracy Score |      0.8431       |     0.8573      |
+    > | F-score        |      0.6842       |     0.7242      |
   - Observe feature relevance
-    > ![2-Observe-feature-relevance.png](others\images\2-Observe-feature-relevance.png)
+
+    > ![2-Observe-feature-relevance.png](others/images/2-Observe-feature-relevance.png)
   - Evaluate models with and without feature selection
     > |     Metric     |No Feature Selection|Feature Selection|
-      | :------------: | :----------------: | :-------------: |
-      | Accuracy Score |       0.8573       |     0.8269      |
-      | F-score        |       0.7242       |     0.6528      |
+    > | :------------: | :----------------: | :-------------: |
+    > | Accuracy Score |       0.8573       |     0.8269      |
+    > | F-score        |       0.7242       |     0.6528      |
 
 ## [Project Information](others/project_description.md)
 ### Install
@@ -65,4 +67,5 @@ The modified census dataset consists of approximately 32,000 data points, with e
 - `native-country`: Native Country (United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands)
 
 **Target Variable**
+
 - `income`: Income Class (<=50K, >50K)
