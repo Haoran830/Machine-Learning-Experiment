@@ -1,5 +1,5 @@
 
-# Machine Learning Study
+# Machine Learning Experiment
 *[Udacity's Machine Learning Engineer Nanodegree(MLND) program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)*
 
 ## Projects
