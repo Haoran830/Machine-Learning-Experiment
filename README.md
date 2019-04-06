@@ -6,3 +6,5 @@
 3. [Creating Customer Segments](3-Creating-Customer-Segments)
 4. [Dog Breed Recognition](4-Dog-Breed-Recognition)
 5. [Teach a Quadcopter to Take Off](5-Teach-a-Quadcopter)
+## Kaggle Competition
+- [Predict Future Sales](Predict-Future-Sales) 
